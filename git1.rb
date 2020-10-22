@@ -1,4 +1,3 @@
-#!/home/hirari/git-tutorial
 #encoding: UTF-8
 
 for i in 1..100 do
